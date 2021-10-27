@@ -1,0 +1,19 @@
+{
+  "name": "raspi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagolol/raspi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagolol/raspi/issues"
+  },
+  "homepage": "https://github.com/bagolol/raspi#readme"
+}
