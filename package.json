@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bagolol/raspi/issues"
   },
-  "homepage": "https://github.com/bagolol/raspi#readme"
+  "homepage": "https://github.com/bagolol/raspi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
